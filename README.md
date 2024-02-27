@@ -1,6 +1,6 @@
 # Animated Searchbar
 
-This repository contains code for creating an animated search bar using HTML, CSS, and jQuery. The search bar expands and contracts smoothly upon clicking the search button, providing a visually appealing user experience.
+This repository contains code for creating an animated search bar using HTML, CSS, and jQuery. The search bar expands and contracts smoothly upon clicking the search button, providing a visually appealing user experience .
 
 ## Preview
 
